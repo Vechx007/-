@@ -1287,7 +1287,7 @@ client.on('message', message => {
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#9B59B6")
-  .addField(" **:small_orange_diamond: Link Server Support︾**" , "  **https://discord.gg/4uUcper**")
+  .addField(" **:small_orange_diamond: Link Server Support︾**" , "  **https://discord.gg/8Qx9b9j**")
   .addField(" **:small_blue_diamond: Link Mal Shop︾ **" , "  **https://discordapp.com/api/oauth2/authorize?client_id=489487215270035466&permissions=2146958839&scope=bot**")     
      
   message.channel.sendEmbed(embed);
@@ -1299,7 +1299,7 @@ client.on('message', message => {
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#9B59B6")
-  .addField(" **:small_orange_diamond: Link Server Support︾**" , "  **https://discord.gg/4uUcper**")
+  .addField(" **:small_orange_diamond: Link Server Support︾**" , "  **https://discord.gg/8Qx9b9jr**")
   .addField(" **:small_blue_diamond: Link Mal Shop︾ **" , "  **https://discordapp.com/api/oauth2/authorize?client_id=489487215270035466&permissions=2146958839&scope=bot**")     
      
   message.channel.sendEmbed(embed);
@@ -1312,7 +1312,7 @@ client.on('message', message => {
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#9B59B6")
-  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/4uUcper**")
+  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/8Qx9b9j**")
      
      
   message.channel.sendEmbed(embed);
@@ -1325,7 +1325,7 @@ client.on('message', message => {
      let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("#9B59B6")
-  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/4uUcper**")
+  .addField(" ** :gear: Server Support :gear: **" , "  **https://discord.gg/8Qx9b9j**")
      
      
   message.channel.sendEmbed(embed);
